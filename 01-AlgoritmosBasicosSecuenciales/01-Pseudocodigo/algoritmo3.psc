@@ -5,16 +5,15 @@
 
 Algoritmo Tres
 	
-	Definir cateto1, cateto2, hipotenusa, hipotenusaTotal como real;
-	
+	Definir cateto1, cateto2, hipotenusa como real;
+
 	Escribir "ingrese el valor del cateto 1";
 	leer cateto1;
 	Escribir "ingrese el valor del cateto 2";
 	leer cateto2;
 	
-	hipotenusa<-[(cateto1)^2 + (cateto2)^2];
-	hipotenusaTotal<-[rc(hipotenusa)];
+	hipotenusa = rc(((cateto1)^2) + ((cateto2)^2));
 	
-	Escribir "el valor de la hipotenusa es de: ", + hipotenusaTotal;
+	Escribir "el valor de la hipotenusa es de: ", + hipotenusa;
 	
 FinAlgoritmo

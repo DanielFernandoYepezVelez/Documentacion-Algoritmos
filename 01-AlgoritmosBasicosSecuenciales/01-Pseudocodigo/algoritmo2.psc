@@ -9,7 +9,7 @@ Algoritmo Dos
 	Escribir "cual es su nombre?";
 	leer nombre;
 	
-	mensaje<-"HOLA";
+	mensaje = "HOLA";
 	
 	Escribir mensaje, " ", nombre;
 	

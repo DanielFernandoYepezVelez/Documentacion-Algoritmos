@@ -1,8 +1,8 @@
-//PROBLEMA #6.
-//ELABORE UN ALGORITMO QUE LEA UNA TEMPERATURA EN GRADOS FAHREINHEIT
-//Y LA CONVIERTA Y LA IMPRIMA EN GRADOS CENTIGRADOS.LOS GRADOS
-//FAHREINHEIT SE CONVIERTEN EN GRADOS CENTIGRADOS RESTANDOLES 32 Y
-//MULTIPLICANDO POR 5/9.
+// PROBLEMA #6.
+/// ELABORE UN ALGORITMO QUE LEA UNA TEMPERATURA EN GRADOS FAHREINHEIT
+/// Y LA CONVIERTA Y LA IMPRIMA EN GRADOS CELSIUS.LOS GRADOS
+/// FAHREINHEIT SE CONVIERTEN EN GRADOS CELSIUS RESTANDOLES 32 Y
+/// MULTIPLICANDO POR 5/9.
 
 Algoritmo Seis
 	
@@ -11,8 +11,8 @@ Algoritmo Seis
 	Escribir "ingresar una temperatura en grados fahreinheit";
 	Leer gradosF;
 	
-	gradosC<-(gradosF-32)*(5/9);
+	gradosC = (gradosF - 32) * (5 / 9);
 	
-	Escribir "el resultado es: ", gradosC,  " grados centigrados";
+	Escribir "el resultado es: ", gradosC,  " grados Celsius";
 	
 FinAlgoritmo

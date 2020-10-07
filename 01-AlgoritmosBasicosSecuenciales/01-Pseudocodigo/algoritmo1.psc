@@ -12,9 +12,9 @@ Algoritmo Uno
 	Escribir "Ingrese el porcentaje de aumento";
 	leer porcentaje;
 	
-	porcentaje = (porcentaje/100);
-	aumento = salarioActual*porcentaje;
-	nuevoSalario = salarioActual+aumento;
+	porcentaje = (porcentaje / 100);
+	aumento = salarioActual * porcentaje;
+	nuevoSalario = salarioActual + aumento;
 	
 	Escribir " ";
 	Escribir "el salario actual es de: ", + salarioActual;
