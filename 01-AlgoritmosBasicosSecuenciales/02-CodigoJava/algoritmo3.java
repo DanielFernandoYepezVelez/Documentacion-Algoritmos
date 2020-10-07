@@ -4,7 +4,7 @@
 * LA HIPOTENUSA DE DICHO TRIANGULO.
 */
 
-package com.danielfernandoyepezvelez;
+// package com.danielfernandoyepezvelez;
 
 import java.util.Scanner;
 

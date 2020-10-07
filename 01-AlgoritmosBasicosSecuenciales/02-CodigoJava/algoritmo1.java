@@ -4,7 +4,7 @@
 * ACTUAL, EL AUMENTO Y EL NUEVO SALARIO.
 */
 
-package com.danielfernandoyepezvelez;
+// package com.danielfernandoyepezvelez;
 
 import java.util.Scanner;
 

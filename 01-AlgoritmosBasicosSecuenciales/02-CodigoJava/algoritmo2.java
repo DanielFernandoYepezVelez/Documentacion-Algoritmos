@@ -3,7 +3,7 @@
 * EL MENSAJE "HOLA" SEGUIDO DEL NOMBRE DE LA PERSONA LEIDA.
 */
 
-package com.danielfernandoyepezvelez;
+// package com.danielfernandoyepezvelez;
 
 import java.util.Scanner;
 

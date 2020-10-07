@@ -5,7 +5,7 @@
 * Y EL TOTAL A PAGAR, SABIENDO QUE EL IMPUESTO ES DEL 19%.
 */
 
-package com.danielfernandoyepezvelez;
+// package com.danielfernandoyepezvelez;
 
 import java.util.Scanner;
 
