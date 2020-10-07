@@ -4,7 +4,7 @@
 * DEL PRIMERO POR EL SEGUNDO.
 */
 
-// package com.danielfernandoyepezvelez;
+package com.danielfernandoyepezvelez;
 
 import java.util.Scanner;
 
