@@ -1,8 +1,8 @@
 //PROBLEMA # 4.
-//ELABORE UN ALGORITMO QUE LEA EL CODIGO DE UN ARTICULO, EL PRECIO
-//UNITARIO Y LA CANTIDAD VENDIDA. SU ALGORITMO DEBE CALCULAR E 
-//IMPRIMIR EL TOTAL DE LA VENTA, EL IVA Y EL TOTAL A PAGAR, SABIENDO
-//QUE EL IMPUESTO ES DEL 19%.
+/// ELABORE UN ALGORITMO QUE LEA EL CODIGO DE UN ARTICULO, EL PRECIO
+/// UNITARIO Y LA CANTIDAD VENDIDA. SU ALGORITMO DEBE CALCULAR E 
+/// IMPRIMIR EL TOTAL DE LA VENTA, EL IVA Y EL TOTAL A PAGAR, SABIENDO
+/// QUE EL IMPUESTO ES DEL 19%.
 
 Algoritmo Cuatro
 	
@@ -15,9 +15,9 @@ Algoritmo Cuatro
 	Escribir "cantidad total de articulos vendidos";
 	Leer cantidadVendida;
 	
-	totalVenta<-cantidadVendida*precioUnitario;
-	iva<-totalVenta*0.19;
-	totalPago<-totalVenta+iva;
+	totalVenta = cantidadVendida*precioUnitario;
+	iva = totalVenta*0.19;
+	totalPago = totalVenta+iva;
 
 	Escribir " ";
 	Escribir "las ventas totales fueron de: ", + totalVenta;

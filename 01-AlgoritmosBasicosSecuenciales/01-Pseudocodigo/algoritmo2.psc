@@ -1,6 +1,6 @@
 //PROBLEMA #2.
-//ELABORE UN ALGORITMO QUE LEA EL NOMBRE DE UNA PERSONA Y QUE IMPRIMA
-//EL MENSAJE "HOLA" SEGUIDO DEL NOMBRE DE LA PERSONA LEIDA.
+/// ELABORE UN ALGORITMO QUE LEA EL NOMBRE DE UNA PERSONA Y QUE IMPRIMA
+/// EL MENSAJE "HOLA" SEGUIDO DEL NOMBRE DE LA PERSONA LEIDA.
 
 Algoritmo Dos
 	
@@ -9,7 +9,7 @@ Algoritmo Dos
 	Escribir "cual es su nombre?";
 	leer nombre;
 	
-	mensaje<-"HOLA";
+	mensaje = "HOLA";
 	
 	Escribir mensaje, " ", nombre;
 	
