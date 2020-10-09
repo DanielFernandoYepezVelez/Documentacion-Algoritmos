@@ -20,9 +20,9 @@ Algoritmo Cuatro
 	totalPago = totalVenta+iva;
 
 	Escribir " ";
-	Escribir "las ventas totales fueron de: ", + totalVenta;
-	Escribir "el iva fue de: ", + iva;
-	Escribir "el pago total es de: ", + totalPago;
+	Escribir "las ventas totales fueron de: ", totalVenta;
+	Escribir "el iva fue de: ", iva;
+	Escribir "el pago total es de: ", totalPago;
 	Escribir "el codigo del articulo es: ", codigo;
 	
 FinAlgoritmo

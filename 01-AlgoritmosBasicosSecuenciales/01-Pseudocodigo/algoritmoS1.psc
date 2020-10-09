@@ -14,6 +14,6 @@ Algoritmo UnoSegundaParte
 	aumento = salarioBasico * 0.023;
 	salarioNeto = (salarioBasico + aumento) - retencion;
 	
-	Escribir "el salario neto es de:", + salarioNeto;
+	Escribir "el salario neto es de:", salarioNeto;
 	
 FinAlgoritmo

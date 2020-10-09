@@ -17,8 +17,8 @@ Algoritmo Uno
 	nuevoSalario = salarioActual + aumento;
 	
 	Escribir " ";
-	Escribir "el salario actual es de: ", + salarioActual;
-	Escribir "el aumento es de: ", + aumento;
-	Escribir "el nuevo salario es de: ", + nuevoSalario;
+	Escribir "el salario actual es de: ", salarioActual;
+	Escribir "el aumento es de: ", aumento;
+	Escribir "el nuevo salario es de: ", nuevoSalario;
 	
 FinAlgoritmo

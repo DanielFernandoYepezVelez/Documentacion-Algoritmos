@@ -19,10 +19,10 @@ Algoritmo Cinco
 	modulo = (numero1 MOD numero2);
 	
 	Escribir " ";
-	Escribir "la suma es: ", + suma;
-	Escribir "la resta es: ", + resta;
-	Escribir "la multiplicacion es: ", + multiplicacion;
-	Escribir "la division es: ", + division;
-	Escribir "el modulo es: ", + modulo;
+	Escribir "la suma es: ", suma;
+	Escribir "la resta es: ", resta;
+	Escribir "la multiplicacion es: ", multiplicacion;
+	Escribir "la division es: ", division;
+	Escribir "el modulo es: ", modulo;
 	
 FinAlgoritmo
