@@ -9,7 +9,7 @@
 /// DETALLES DEL PAGO
 /// APORTES A SALUD 4%:   $XXXXXXXX
 /// APORTES A PENSION 4%: $XXXXX
-/// TOTAL A PAGAR:    XXXXXX
+/// SALARIO NETO: $XXXXXX
 
 Algoritmo SeisSegundaParte
 	
@@ -23,16 +23,16 @@ Algoritmo SeisSegundaParte
 	
 	salud = sueldoMensual * 0.04;
 	pension = sueldoMensual * 0.04;
-	totalPago = salud + pension;
+	totalPago = sueldoMensual - (salud + pension);
 	
 	Escribir " ";
 	Escribir "*******COMPROBANTE DE PAGO********";
 	Escribir "NOMBRE: ", nombre;
-	Escribir "SUELDO: ", sueldoMensual;
+	Escribir "SUELDO: ", sueldoMensual,"$";
 	Escribir " ";
 	Escribir "DETALLES DEL PAGO";
-	Escribir "APORTES A SALUD 4%: ", salud;
-	Escribir "APORTES A PENSION 4%: ", pension;
-	Escribir "TOTAL A PAGAR: ", totalPago;
+	Escribir "APORTES A SALUD 4%: ", salud,"$";
+	Escribir "APORTES A PENSION 4%: ", pension,"$";
+	Escribir "SALARIO NETO: ", totalPago,"$";
 	
 FinAlgoritmo
