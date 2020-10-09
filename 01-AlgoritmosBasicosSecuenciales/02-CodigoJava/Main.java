@@ -12,5 +12,10 @@ public class Main {
         //System.out.println(algoritmoS1.salarioEmpleado());
         //System.out.println(algoritmoS2.vida());
         //System.out.println(algoritmoS3.precioPelota());
+        //System.out.println(algoritmoS4.ConversionPesos());
+        //System.out.println(algoritmoS5.SalarioTrabajador());
+        //System.out.println(algoritmoS6.Comprobante());
+        //System.out.println(algoritmoS7.FigurasPlanas());
+        //System.out.println(algoritmoS8.Invertir());
     }
 }
