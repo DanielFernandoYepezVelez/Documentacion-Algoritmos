@@ -14,6 +14,6 @@ Algoritmo Tres
 	
 	hipotenusa = rc(((cateto1)^2) + ((cateto2)^2));
 	
-	Escribir "el valor de la hipotenusa es de: ", + hipotenusa;
+	Escribir "el valor de la hipotenusa es de: ", hipotenusa;
 	
 FinAlgoritmo
