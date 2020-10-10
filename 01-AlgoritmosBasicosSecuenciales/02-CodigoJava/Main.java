@@ -17,5 +17,9 @@ public class Main {
         //System.out.println(algoritmoS6.Comprobante());
         //System.out.println(algoritmoS7.FigurasPlanas());
         //System.out.println(algoritmoS8.Invertir());
+        //System.out.println(algoritmoS9.Comisiones());
+        //System.out.println(algoritmoS10.promedioFinal());
+        //System.out.println(algoritmoS12.Revoque());
+        //System.out.println(algoritmoS13.Conversion());
     }
 }
