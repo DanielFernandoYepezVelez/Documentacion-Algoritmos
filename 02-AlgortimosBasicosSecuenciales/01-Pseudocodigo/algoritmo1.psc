@@ -16,14 +16,14 @@ Algoritmo Uno
 	Escribir "ingrese su tarifa cobrada por hora";
 	leer tarifaHoraria;
 	
-	sueldoBasico<-horasTrabajadas*tarifaHoraria;
-	bonificacion<-sueldoBasico*0.20;
-	sueldoBruto<-sueldoBasico+bonificacion;
-	descuento<-sueldoBruto*0.10;
-	sueldoNeto<-sueldoBruto-descuento;
+	sueldoBasico = horasTrabajadas * tarifaHoraria;
+	bonificacion = sueldoBasico * 0.20;
+	sueldoBruto = sueldoBasico + bonificacion;
+	descuento = sueldoBruto * 0.10;
+	sueldoNeto = sueldoBruto - descuento;
 	
-	Escribir "salario basico: ", + sueldoBasico;
-	Escribir "salario bruto: ", + sueldoBruto;
-	Escribir "salario neto: ",  + sueldoNeto;
+	Escribir "salario basico: ", sueldoBasico;
+	Escribir "salario bruto: ", sueldoBruto;
+	Escribir "salario neto: ", sueldoNeto;
 	
 FinAlgoritmo

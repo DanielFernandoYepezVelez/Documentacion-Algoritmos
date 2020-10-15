@@ -14,8 +14,8 @@ Algoritmo Dos
 	Definir X,Z como entero;
 	definir respuesta1, respuesta2, respuesta3, respuesta4, respuesta5 como cadena;
 	
-	X<-30;
-	Z<-40;
+	X = 30;
+	Z = 40;
 	
 	Escribir "SI X=30 Y Z=40 ENTONCES CONSIDERAR LOS SIGUIENTES ENUNCIADOS:";
 	Escribir "posibles resultados FALSO O VERDADERO.";
