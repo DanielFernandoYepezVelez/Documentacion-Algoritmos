@@ -1,6 +1,6 @@
-/* PROBLEMA #1
-* LEA TRES NÚMEROS Y CALCULE EL RESULTADO DE LA SUMA.
-*/
+/** PROBLEMA #1
+ * LEA TRES NÚMEROS Y CALCULE EL RESULTADO DE LA SUMA.
+ */
 
 package com.danielfernandoyepezvelez;
 
