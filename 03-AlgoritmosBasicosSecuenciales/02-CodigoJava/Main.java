@@ -16,5 +16,15 @@ public class Main {
         //algoritmo12.PorcentajeAlumnos();
         //algoritmo13.SalarioPersona();
         //algoritmo14.Factura();
+        //algoritmo15.Cliente();
+        //algoritmo16.Sobusa();
+        //algoritmo17.InformacionEmpleado();
+        //algoritmo18.PagoMatricula();
+        //algoritmo19.NotasEstudinateSena();
+        //algoritmo20.Producto();
+        //algoritmo21.Aprendiz();
+        //algoritmo22.Litros();
+        //algoritmo23.Escalador();
+        //algoritmo24.PrestamoEstudiantil();
     }
 }
