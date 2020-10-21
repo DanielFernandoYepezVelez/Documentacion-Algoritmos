@@ -16,5 +16,8 @@ public class Main {
         //algoritmo12.ArticuloX();
         //algoritmo13.AhorroPersona();
         //algoritmo14.ViajeEmpresa();
+        //algoritmo15.PromedioAlumno();
+        //algoritmo16.Vida();
+        //algoritmo17.Huesped();
     }
 }
