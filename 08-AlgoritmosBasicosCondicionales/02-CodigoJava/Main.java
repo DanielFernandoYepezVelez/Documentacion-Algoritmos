@@ -9,5 +9,7 @@ public class Main {
         //algoritmoS01.TiendaDescuento();
         //algoritmoS02.Numero();
         //algoritmoS03.Equipo();
+        //algoritmoT01.MemoriasUSB();
+        //algoritmoT02.Reescribir();
     }
 }
