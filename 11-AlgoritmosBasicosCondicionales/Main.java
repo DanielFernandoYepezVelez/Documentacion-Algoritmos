@@ -12,5 +12,8 @@ public class Main {
         //algoritmo08.InversionBancaria();
         //algoritmo09.Cinco();
         //algoritmo10.Edad();
+        //algoritmo11.Promedio();
+        //algoritmo12.Alta();
+        //algoritmo13.NumeroCubo();
     }
 }
