@@ -1,0 +1,5 @@
+Los Algoritmos De Esta Sección No Tiene Documento
+De Notas Definido, Pero Cada Algoritmo Tiene su
+Problema Escrito En La Parte Superior. Todos Son
+Algoritmos Trabajos Con La Estructura Algoritmica
+De Condicionales Simples, Compuestos y Anidados.
