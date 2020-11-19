@@ -12,5 +12,10 @@ public class Main {
         //algoritmo08.Pulsaciones();
         //algoritmo09.SalarioObrero();
         //algoritmo10.Calorias();
+        //algoritmo11.PiezasFabrica();
+        //algoritmo12.Papeleria();
+        //algoritmo13.Vivienda();
+        //algoritmo14.Numero();
+        //algoritmo15.Almacen();
     }
 }
